@@ -1,4 +1,4 @@
-## Pratima's Kitchen is an open source project for food online food ordering
+# Pratima's Kitchen is an open source project for food online food ordering
  
  Mainly the page is divided into header and futher into hrefs.
  1. Home
@@ -8,7 +8,7 @@
  5. Login / Sign in 
  6. Payment Gateway.
 
- # For Running the code
+ ## For Running the code
 
  1. Fork it
  2. Once forked, copy your repo's forked https/ssh url
